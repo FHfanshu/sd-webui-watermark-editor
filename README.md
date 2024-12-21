@@ -1,6 +1,6 @@
 # Stable Diffusion WebUI 水印扩展
 
-一个简单但功能强大的水印工具，让您可以直接在 Stable Diffusion WebUI 中为图片添加自定义水印。
+一个简单的水印工具，让您可以直接在 Stable Diffusion WebUI 中为图片添加自定义水印。
 
 ## 功能特点
 
@@ -15,11 +15,8 @@
 - 一键下载带水印的图片
 
 ## 安装方法
-
-1. 在 Stable Diffusion WebUI 的扩展目录中创建 `watermark` 文件夹
-2. 将所有文件复制到该文件夹中
-3. 创建 `watermarks` 子文件夹并将您的水印图片（PNG格式）放入其中
-4. 重启 Stable Diffusion WebUI
+1. 使用git clone 至Stable Diffusion WebUI 的扩展目录中:
+```https://github.com/FHfanshu/sd-webui-watermark-editor.git```
 
 ## 使用方法
 
@@ -138,10 +135,8 @@ A simple yet powerful watermark tool that allows you to add customized watermark
 
 ## Installation
 
-1. Create a `watermark` folder in your Stable Diffusion WebUI's extension directory
-2. Copy all the files into this folder
-3. Create a `watermarks` subfolder and place your watermark images (PNG format) in it
-4. Restart Stable Diffusion WebUI
+1. clone this repository into ./sd-webui/extensions/ via git
+```https://github.com/FHfanshu/sd-webui-watermark-editor.git```
 
 ## Usage
 
