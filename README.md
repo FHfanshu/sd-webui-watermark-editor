@@ -94,7 +94,7 @@ extensions/
 
 ## 使用许可
 
-[选择的许可证]
+[MIT]
 
 
 ## 版本历史
@@ -214,11 +214,11 @@ extensions/
 
 ## License
 
-[Your chosen license]
+[MIT]
 
 ## Credits
 
-Created by [Your Name]
+Created by [FHfanshu]
 
 ## Version History
 
