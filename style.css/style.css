@@ -1,0 +1,12 @@
+.watermark-container {
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 8px;
+    margin: 10px 0;
+}
+
+.watermark-controls {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+}
